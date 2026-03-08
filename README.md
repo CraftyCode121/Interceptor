@@ -7,7 +7,7 @@
 ## Demo
 
 ### Full Engagement Animation
-https://github.com/your-username/your-repo/raw/main/visuals/scenario_animation.mp4
+https://github.com/CraftyCode121/Interceptor/blob/main/visuals/scenario_animation.mp4
 
 > Missile launches, radar acquires the threat, interceptor fires after detection delay, and proportional navigation guides it to within 25m of an actively evading target.
 
@@ -145,9 +145,9 @@ Drop `N` to 3 and watch the interceptor fail. Set `EVASION_SEED = None` for a di
 
 ---
 
-## What's Next
+## What's Next (maybe late)
 
-- **3D simulation** — lateral evasion in the third dimension
+- **3D simulation** — lateral evasion in the third dimension 
 - **Salvo engagement** — multiple interceptors, probability of kill modeling  
 - **Radar noise** — inject measurement error into the guidance loop
 - **Monte Carlo** — run 1000 scenarios, plot miss distance distribution
