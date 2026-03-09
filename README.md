@@ -155,4 +155,10 @@ Drop `N` to 3 and watch the interceptor fail. Set `EVASION_SEED = None` for a di
 
 ---
 
+## The following paper helped significantly in building this project
+
+- **Basic Principles of Homing Guidance** — https://secwww.jhuapl.edu/techdigest/content/techdigest/pdf/V29-N01/29-01-Palumbo_Principles_Rev2018.pdf
+
+---
+
 *Built from scratch — no game engines, no shortcuts, just physics and math.*
